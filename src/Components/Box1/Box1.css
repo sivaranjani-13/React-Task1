@@ -1,0 +1,15 @@
+.subContainer{
+  display: flex;
+  /*flex-direction: row;*/
+}
+.Box1
+  {
+    padding:20px;
+    background-color:white;
+    width: 50%;
+    border:2px solid black;
+    text-align: center;
+  }
+  .Box1:hover{
+    background-color:#4B0082 ;
+  }

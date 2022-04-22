@@ -1,0 +1,10 @@
+.Content{
+    background-color: white;
+    border: 2px solid black;
+    text-align: center;
+    padding: 20px;
+    width: 50%;
+  }
+  .Content:hover{
+    background-color: #FF7F00;
+  }
