@@ -7,7 +7,7 @@ import Box2 from './Components/Box2/Box2';
 import Box3 from './Components/Box3/Box3';
 import Box4 from './Components/Box4/Box4';
 import Content from './Components/Content/Content';
-import Footer from './Components/Footer/Footer';
+import Footer from './Components/Footer/Footer'; 
 import reportWebVitals from './reportWebVitals';
 
 const root=ReactDOM.createRoot(document.getElementById('root'));
